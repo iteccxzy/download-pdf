@@ -1,4 +1,5 @@
-# download-pdf
-pip install request
-agregar cookies
-agregar urls
+# Download pdf
+
+### pip install -r requirements
+### agregar cookies
+### agregar urls
